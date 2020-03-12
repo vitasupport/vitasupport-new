@@ -4,12 +4,15 @@ import styled, { css } from "styled-components"
 export function Content({ data, html }) {
   const centered = data.center ? data.center : false
   return (
-    <StyledContent
-      center={centered}
-      dangerouslySetInnerHTML={{
-        __html: html,
-      }}
-    ></StyledContent>
+    <>
+      <StyledContent
+        center={centered}
+        dangerouslySetInnerHTML={{
+          __html: html,
+        }}
+      ></StyledContent>
+      {data && data.underline && <Hr center={centered} />}
+    </>
   )
 }
 
@@ -21,6 +24,17 @@ const StyledContent = styled.div`
     `};
 `
 
+const Hr = styled.hr`
+  margin: 2.2rem 0;
+
+  ${props =>
+    props.center &&
+    css`
+      margin-left: auto;
+      margin-right: auto;
+    `};
+`
+
 export const ContentBlock = {
   label: "Content",
   name: "content",
@@ -28,9 +42,11 @@ export const ContentBlock = {
   defaultItem: {
     content: "",
     center: false,
+    underline: true,
   },
   fields: [
     { name: "content", label: "Content", component: "markdown" },
     { name: "center", label: "Center", component: "toggle" },
+    { name: "underline", label: "Underline", component: "toggle" },
   ],
 }

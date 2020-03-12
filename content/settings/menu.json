@@ -1,20 +1,23 @@
 {
   "menuItems": [
     {
-      "label": "Home",
-      "link": "/"
+      "label": "Personal Training",
+      "link": "/personal-training"
+    },
+    {
+      "label": "Running",
+      "link": "/running"
     },
     {
       "label": "About",
       "link": "/about"
     },
     {
-      "label": "Blog",
-      "link": "/blog"
-    },
-    {
       "label": "Contact",
       "link": "/contact"
     }
-  ]
+  ],
+  "__gatsby_resolved": {
+    "fileRelativePath": "/content/settings/menu.json"
+  }
 }

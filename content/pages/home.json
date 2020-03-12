@@ -15,12 +15,6 @@
         "link": "/blog",
         "primary": true,
         "arrow": true
-      },
-      {
-        "label": "Contact Us",
-        "link": "/contact",
-        "arrow": false,
-        "primary": false
       }
     ],
     "image": "../images/cafe-2.jpg",

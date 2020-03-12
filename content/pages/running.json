@@ -1,0 +1,29 @@
+{
+  "title": "Running",
+  "path": "/running",
+  "hero": {
+    "headline": "Running",
+    "ctas": [
+      {
+        "label": "Get started",
+        "arrow": true,
+        "link": "https://www.personaltrainerapp.nl/p/3482",
+        "primary": true
+      }
+    ]
+  },
+  "blocks": [
+    {
+      "title": "Looptechniek",
+      "center": false,
+      "underline": true,
+      "_template": "TitleBlock",
+      "content": ""
+    },
+    {
+      "content": "Met een goede looptechniek kan je de kans op blessures verminderen. Je (loop)prestaties en het plezier in hardlopen zullen verbeteren. Bij VitaSupport leer je niet alleen de juiste techniek aan, maar werk je tevens aan je kracht en core stability.\n\nBen je een meer gevorderde hardloper en heb je interesse in een leuke groepstraining in Alkmaar? Druk op de knop hierboven en meld je nu aan!\n\nMocht je twijfelen of je de tempo’s aan kunt in de groep of heb je liever individuele hardloopbegeleiding? Dan is het uiteraard ook mogelijk om een paar aparte sessies te boeken of je aan te melden voor personal training.",
+      "center": false,
+      "_template": "ContentBlock"
+    }
+  ]
+}

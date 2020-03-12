@@ -7,15 +7,21 @@ export function Image({ data }) {
   return (
     data.image &&
     data.image.childImageSharp && (
-      <ImageWrapper>
-        <Img fluid={data.image.childImageSharp.fluid} />
-      </ImageWrapper>
+      <>
+        <ImageWrapper>
+          <Img fluid={data.image.childImageSharp.fluid} />
+        </ImageWrapper>
+        {data && data.underline && <Hr />}
+      </>
     )
   )
 }
 
 const ImageWrapper = styled.div`
   overflow: hidden;
+`
+const Hr = styled.hr`
+  margin: 2.2rem 0;
 `
 
 export const ImageBlock = {
@@ -39,5 +45,6 @@ export const ImageBlock = {
         return imageNode.childImageSharp.fluid.src
       },
     },
+    { name: "underline", label: "Underline", component: "toggle" },
   ],
 }
