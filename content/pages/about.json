@@ -24,6 +24,12 @@
       "center": false,
       "underline": true,
       "_template": "ContentBlock"
+    },
+    {
+      "content": "**Certifications**\n\n* NASM Certified Personal Trainer\n* NASM Corrective Exercise Specialist\n* Anatomie AALO\n* HBO Voedingsdeskundige\n* HvA Sportvoedingsadviseur\n* ",
+      "center": false,
+      "underline": true,
+      "_template": "ContentBlock"
     }
   ],
   "displayTitle": true
