@@ -15,9 +15,10 @@
       "_template": "ContentBlock"
     },
     {
-      "image": "../images/undefined",
+      "image": "../images/winfred.jpg",
       "_template": "ImageBlock",
-      "content": ""
+      "content": "",
+      "underline": true
     },
     {
       "content": "Vanuit een gedegen kennis en ervaring begeleid ik mensen met het behalen en ook behouden van hun doelstellingen. Als onafhankelijk trainer ben ik in bezit van een eigen studio. Ideaal voor personen die niets hebben met de sportschool of diegene die net dat duwtje in de rug nodig hebben om sportief bezig te zijn.",
