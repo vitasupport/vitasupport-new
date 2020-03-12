@@ -13,6 +13,11 @@
       "center": false,
       "underline": true,
       "_template": "ContentBlock"
+    },
+    {
+      "image": "../images/undefined",
+      "_template": "ImageBlock",
+      "content": ""
     }
   ],
   "displayTitle": true
