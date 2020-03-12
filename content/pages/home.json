@@ -28,9 +28,9 @@
       "_template": "ContentBlock"
     },
     {
-      "title": "",
+      "title": "Niet alleen?",
       "center": false,
-      "underline": true,
+      "underline": false,
       "_template": "TitleBlock",
       "content": ""
     },
