@@ -3,55 +3,9 @@
   "path": "/personal-training",
   "hero": {
     "headline": "Personal Training",
-    "textline": "The time is now so...",
-    "ctas": [
-      {
-        "link": "/contact",
-        "label": "Get started",
-        "primary": true,
-        "arrow": true
-      }
-    ]
+    "textline": "",
+    "ctas": [],
+    "large": false
   },
-  "blocks": [
-    {
-      "title": "Sneller naar je doel!",
-      "center": false,
-      "underline": false,
-      "_template": "TitleBlock",
-      "content": ""
-    },
-    {
-      "content": "Afvallen, fitter en sterker worden of beter worden in de sport die je het liefst beoefent? Een personal trainer begeleidt, motiveert en stimuleert je om jouw (sportieve) doelen te behalen.",
-      "center": false,
-      "_template": "ContentBlock",
-      "underline": true
-    },
-    {
-      "title": "Meer dan sporten...",
-      "center": false,
-      "underline": false,
-      "_template": "TitleBlock",
-      "content": ""
-    },
-    {
-      "content": "Als beweegspecialist leer ik jou je lichaam optimaal te gebruiken. Vooral wanneer je ouder word zul je merken dat veel dingen niet meer als vanzelfsprekend kunt beschouwen en dat sommige vrij alledaagse bewegingen en inspanningen al een enorme uitdaging zijn. \n\nBewustwording is hier het sleutelwoord. Deze bewustwording is ook noodzakelijk wanneer je terug komt van een blessure of als preventie om niet in blessureleed terug te vallen.",
-      "center": false,
-      "_template": "ContentBlock",
-      "underline": true
-    },
-    {
-      "title": "Niet alleen?",
-      "center": false,
-      "underline": false,
-      "_template": "TitleBlock",
-      "content": ""
-    },
-    {
-      "content": "Uiteraard zijn de personal trainingen ook mogelijk in groepsverband, small group training (maximaal 4 personen, inclusief voedingsbegeleiding). Leuk om dit met een groepje vrienden te doen en voordeliger. Informeer snel naar de mogelijkheden!",
-      "center": false,
-      "underline": false,
-      "_template": "ContentBlock"
-    }
-  ]
+  "blocks": []
 }
