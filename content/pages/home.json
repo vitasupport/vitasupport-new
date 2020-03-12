@@ -7,6 +7,38 @@
       "underline": false,
       "_template": "TitleBlock",
       "content": ""
+    },
+    {
+      "content": "",
+      "center": false,
+      "underline": true,
+      "_template": "ContentBlock"
+    },
+    {
+      "title": "Meer dan sporten...",
+      "center": false,
+      "underline": false,
+      "_template": "TitleBlock",
+      "content": ""
+    },
+    {
+      "content": "",
+      "center": false,
+      "underline": true,
+      "_template": "ContentBlock"
+    },
+    {
+      "title": "",
+      "center": false,
+      "underline": true,
+      "_template": "TitleBlock",
+      "content": ""
+    },
+    {
+      "content": "",
+      "center": false,
+      "underline": true,
+      "_template": "ContentBlock"
     }
   ],
   "hero": {
