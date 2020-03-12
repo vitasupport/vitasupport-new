@@ -5,7 +5,8 @@
     "headline": "Personal Training",
     "textline": "",
     "ctas": [],
-    "large": false
+    "large": false,
+    "image": "../images/undefined"
   },
   "blocks": []
 }
