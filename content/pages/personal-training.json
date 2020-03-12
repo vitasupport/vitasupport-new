@@ -20,6 +20,12 @@
       "center": false,
       "underline": true,
       "_template": "ContentBlock"
+    },
+    {
+      "content": "“Get fit stay fit\"  \n(12 sessies)\n\n1x per week\n\n€200,00 per maand",
+      "center": false,
+      "underline": false,
+      "_template": "ContentBlock"
     }
   ]
 }
