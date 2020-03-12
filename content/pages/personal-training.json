@@ -6,7 +6,14 @@
     "textline": "",
     "ctas": [],
     "large": false,
-    "image": "../images/undefined"
+    "image": "../images/pexels-photo-841130.jpg"
   },
-  "blocks": []
+  "blocks": [
+    {
+      "content": "“Total transformer\"  \n(36 sessies)\n\n3x per week\n\n€600,00 per maand",
+      "center": false,
+      "underline": true,
+      "_template": "ContentBlock"
+    }
+  ]
 }
