@@ -33,5 +33,8 @@
       "_template": "ContentBlock"
     }
   ],
-  "displayTitle": true
+  "displayTitle": true,
+  "hero": {
+    "image": "../images/undefined"
+  }
 }
